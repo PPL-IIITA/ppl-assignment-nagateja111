@@ -1,0 +1,13 @@
+NAME: 	naga teja 
+ENROLLMENT NUMBER : IIT2015111
+LANGUAGE: python 3.5.0 +
+
+HOW TO BUILD:
+
+exuucute on python idle 3.5.0+
+input has to be given explicitly
+
+order of input
+boy: name,attraction,intelligence,budget,happiness,minimum attraction,
+girl: name,attraction,intelligence,maintainance,happiness,prefered intelligence,preferred attraction
+
